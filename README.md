@@ -6,9 +6,8 @@
 # 💫 About Me:
 <div>
   <p>
- Driven and curious computer science student with a passion for exploring new technologies.<br> I'm actively expanding my skillset in web development, focusing on crafting user-friendly websites and interactive web applications. Additionally, I leverage my design skills to enhance web experiences, while pursuing game development as a creative outlet.
+   Hi, I'm a web developer honing my skills in creating user-friendly websites and interactive web applications. I combine my design expertise to enrich web experiences and pursue creative coding projects as a personal interest.
   </p>
-  <br>
 
 - 🌱 I’m currently learning **NextJS, TypeScript, Postgress**
 
@@ -18,7 +17,7 @@
 
 - 📫 How to reach me **aaryanpandit3527@gmail.com**
 
-- ⚡ Fun fact **I may be a little flimsy when it comes to conversation but once we start talking we can be like mates from a long time.**
+[//]: # "- ⚡ Fun fact **I may be a little flimsy when it comes to conversation but once we start talking we can be like mates from a long time.**"
  
  </div>
 
