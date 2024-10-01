@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pantharshit007](https://github.com/pantharshit007)
 
-- 📫 How to reach me **aaryanpandit3527@gmail.com**
+- 📫 How to reach me **pantharshit007@gmail.com**
 
 [//]: # "- ⚡ Fun fact **I may be a little flimsy when it comes to conversation but once we start talking we can be like mates from a long time.**"
  
