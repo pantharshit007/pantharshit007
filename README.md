@@ -47,8 +47,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pantharshit007&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pantharshit007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![](https://visitcount.itsvg.in/api?id=pantharshit007&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ---
 
-  [![](https://visitcount.itsvg.in/api?id=pantharshit007&icon=0&color=0)](https://visitcount.itsvg.in)
+![header_](https://github.com/user-attachments/assets/d6a0035a-21ac-45eb-9f66-5d28dbdebe21)
+
 
 
