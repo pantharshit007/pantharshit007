@@ -33,8 +33,6 @@ Hi, I'm a web developer focused on creating user-friendly websites and interacti
   <div >
     <img src="https://github-readme-stats.vercel.app/api?username=pantharshit007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pantharshit007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </div>
-  <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pantharshit007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </div>
 </details>
