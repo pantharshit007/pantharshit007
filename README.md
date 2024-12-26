@@ -1,28 +1,34 @@
-![logo](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+<!-- ![logo](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pantharshit007&label=Profile%20views&color=0e75b6&style=flat" alt="pantharshit007" /> </p>
 
 ## 💫 About Me
-Hi, I'm a web developer focused on creating user-friendly websites and interactive applications. I’m currently learning **NextJS**, **TypeScript**, and **Postgres**. I’m looking to collaborate on front-end projects.
+Hi, I'm a web developer from India, focused on creating user-friendly, fun websites with interactive features. Currently working with **Next.js** on the front-end and **PostgreSQL** on the back-end. I'm open to collaborating on front-end, back-end, or full-stack projects. 🚀 
 
 - 👨‍💻 Projects: [GitHub](https://github.com/pantharshit007)
 - 📫 Reach me: pantharshit007@gmail.com
 
-
-
-## 🌐 Socials
+## 🌐 Socials and stuff
 - [CodePen](https://codepen.io/pantharshit007)
 - [Twitter](https://twitter.com/pantharshit007)
-
-
-<!-- 
-## 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+ 
+## 🔭 Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
--->
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) 
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) 
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) 
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Prisma](https://img.shields.io/badge/prisma-%234F5B93.svg?style=for-the-badge&logo=prisma&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/mongodb-%2300A44E.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Hono](https://img.shields.io/badge/hono-%231F1F1F.svg?style=for-the-badge&logo=hono&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F14E32.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
 
 [![An image of @pantharshit007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pantharshit007)](https://holopin.io/@pantharshit007)
 
