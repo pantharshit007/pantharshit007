@@ -49,4 +49,4 @@ Hi, I'm a web developer from India, focused on creating user-friendly, fun websi
 
 [![](https://visitcount.itsvg.in/api?id=pantharshit007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![header_](https://github.com/user-attachments/assets/d6a0035a-21ac-45eb-9f66-5d28dbdebe21)
+<!-- ![header_](https://github.com/user-attachments/assets/d6a0035a-21ac-45eb-9f66-5d28dbdebe21) -->
