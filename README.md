@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pantharshit007&label=Profile%20views&color=0e75b6&style=flat" alt="pantharshit007" /> </p>
 
 ## 💫 About Me
-Hi, I'm a web developer from India, focused on creating user-friendly, fun websites with interactive features. Currently working with **Next.js** on the front-end and **PostgreSQL** on the back-end. I'm open to collaborating on front-end, back-end, or full-stack projects. 🚀 
+Hi, I'm a developer from India, focused on creating user-friendly, fun websites with interactive features, currently working with **Next.js** on the frontend and **PostgreSQL** on the backend. I'm open to collaborating on front-end, back-end, or full-stack projects. 🚀 
 
-- 👨‍💻 Projects: [GitHub](https://github.com/pantharshit007)
+- 👨‍💻 Projects: [GitHub](https://github.com/pantharshit007?tab=repositories)
 - 📫 Reach me: pantharshit007@gmail.com
 
 ## 🌐 Socials and stuff
