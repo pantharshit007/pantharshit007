@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pantharshit007&label=Profile%20views&color=0e75b6&style=flat" alt="pantharshit007" /> </p>
 
 ## 💫 About Me
-Here, building, breaking, and fixing stuff. In the process of Learning about Kafka, queue systems, and sockets. I'm open to collaborating on front-end, back-end, or full-stack projects. 🚀 
+Here, building, breaking, and fixing stuff. In the process of Learning about AWS, queue systems, and sockets. I'm open to collaborating on front-end, back-end, or full-stack projects. 🚀 
 
 ## 🌐 Socials and stuff
 - [CodePen](https://codepen.io/pantharshit007)
