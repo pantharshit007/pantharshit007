@@ -3,10 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pantharshit007&label=Profile%20views&color=0e75b6&style=flat" alt="pantharshit007" /> </p>
 
 ## 💫 About Me
-Hi, I'm a developer from India, focused on creating user-friendly, fun websites with interactive features, currently working with **Next.js** on the frontend and **PostgreSQL** on the backend. I'm open to collaborating on front-end, back-end, or full-stack projects. 🚀 
-
-- 👨‍💻 Projects: [GitHub](https://github.com/pantharshit007?tab=repositories)
-- 📫 Reach me: pantharshit007@gmail.com
+Here, building, breaking, and fixing stuff. In the process of Learning about Kafka, queue systems, and sockets. I'm open to collaborating on front-end, back-end, or full-stack projects. 🚀 
 
 ## 🌐 Socials and stuff
 - [CodePen](https://codepen.io/pantharshit007)
