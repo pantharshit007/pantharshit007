@@ -3,11 +3,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pantharshit007&label=Profile%20views&color=0e75b6&style=flat" alt="pantharshit007" /> </p>
 
 ## 💫 About Me
-Here, building, breaking, and fixing stuff. In the process of Learning about AWS, queue systems, and sockets. I'm open to collaborating on front-end, back-end, or full-stack projects. 🚀 
+Here, building, breaking, and fixing stuff. In the process of Learning about AWS, queue systems, and sockets. 
 
+<!--
 ## 🌐 Socials and stuff
 - [CodePen](https://codepen.io/pantharshit007)
 - [Twitter](https://twitter.com/pantharshit007)
+-->
  
 ## 🔭 Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
