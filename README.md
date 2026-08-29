@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pantharshit007&label=Profile%20views&color=0e75b6&style=flat" alt="pantharshit007" /> </p>
+
 # Hi, I'm Harshit 👋
 
 Building and learning about web technologies, cloud systems, and real-time applications.
@@ -18,7 +20,3 @@ Building and learning about web technologies, cloud systems, and real-time appli
 ## Badges
 
 [![Holopin Badges](https://holopin.me/pantharshit007)](https://holopin.io/@pantharshit007)
-
----
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=pantharshit007&icon=0&color=0)](https://visitcount.itsvg.in)
