@@ -18,3 +18,7 @@ Building and learning about web technologies, cloud systems, and real-time appli
 ## Badges
 
 [![Holopin Badges](https://holopin.me/pantharshit007)](https://holopin.io/@pantharshit007)
+
+---
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=pantharshit007&icon=0&color=0)](https://visitcount.itsvg.in)
