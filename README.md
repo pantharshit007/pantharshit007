@@ -2,7 +2,7 @@
 
 # Hi, I'm Harshit 👋
 
-Building and learning about web technologies, cloud systems, and real-time applications.
+Building and learning about web technologies, cloud systems, and real-time applications. Sniffing around AI.
 
 ## Tech Stack
 
